@@ -1,0 +1,60 @@
+[
+    {
+        "type": "HRVHigh",
+        "timestamp": 6000,
+        "tag": "Heart Rate Variability",
+        "value": 210,
+        "priority": 1,
+        "note": "Control Breathing and lower Pace"
+      },
+      {
+        "type": "BPMHigh",
+        "timestamp": 12000,
+        "tag": "Heart Rate Beats Per Minute",
+        "value": 170,
+        "priority": 1,
+        "note": "Control Breathing and lower pace"
+      },
+      {
+        "type": "BRPMHigh",
+        "timestamp": 10000,
+        "tag": "Breathing",
+        "value": 35,
+        "priority": 2,
+        "note": "Control Breathing, or lower pace"
+      },
+      {
+        "type": "PaceLow",
+        "timestamp": 8000,
+        "tag": "Pacing",
+        "value": 11,
+        "priority": 3,
+        "note": "Control Pace, speed up"
+      },
+      {
+        "type": "PaceHigh",
+        "timestamp": 2000,
+        "tag": "Pacing",
+        "value": 7,
+        "priority": 3,
+        "note": "Control Pace, slow down"
+      },
+      {
+        "type": "Incline",
+        "timestamp": 5000,
+        "tag": "ElevationPercentage",
+        "value": 10,
+        "priority": 4,
+        "note": "Increased Incline"
+      },
+      {
+        "type": "Decline",
+        "timestamp": 0,
+        "tag": "Pacing",
+        "value": -5,
+        "priority": 4,
+        "note": "Increased Decline"
+      }
+
+      
+]
